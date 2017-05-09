@@ -1,8 +1,8 @@
 ## Assembly Tutorials
 
-- Colorwash
-- Smooth Scroll
 - Custom Charset
+- Smooth Scroll
+- Colorwash
 - Logo Swing
 - Music
 - Multicolor Bitmap
