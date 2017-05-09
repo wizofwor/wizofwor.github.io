@@ -1,19 +1,10 @@
 Welcome to my GitHub Pages
 
- [Assembly Tutorials](asm-tutorials.md)
+## Projects 
 
-## Assembly
-* Setting up the toolchain
-* Introduction to Assembly
-* [C64 Reference](c64-referance.md)      
-* [C64 Assembly Examples](assembly-examples.md)
-  * Beginner Routines
-  * ASM Routines
-* [Projects](projects.md)
-
-## Basic
-* [CBM Basic 2.0](cbm-basic.md)
-
-## Projects
-
-
+## Programming Resources
+[Assembly Tutorials](asm-tutorials.md)  
+[Assembly Examples](asm-examples.md) simple asm programs with well commented sourcecode  
+[C64 Reference for Assembly Programmers](asm-reference/README.md)  
+ 
+[C64 Basic Examples][basic-examples/]  
