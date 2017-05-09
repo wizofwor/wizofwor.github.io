@@ -10,9 +10,9 @@ C64 Assembly Essentials
 7. Raster bars
 8. Sprite Multiplexing
 
-Advanced Tricks 
-9. FLI
-10. Sinus dots
-11. Lines
-12. Flood Filling
-13. IRQ Loader
+Advanced Tricks  
+1. FLI
+2. Sinus dots
+3. Lines
+4. Flood Filling
+5. IRQ Loader
