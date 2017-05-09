@@ -1,6 +1,7 @@
-## Welcome to wizofwor GitHub Pages
+Welcome to my GitHub Pages
 
-CBM Basic 2.0   
-C64 Referance   
-Projects   
-C64 Assembly Examples   
+## Quick Links
+(CBM Basic 2.0)[cbm-basic.md]   
+(C64 Referance)[c64-referance.md]      
+(C64 Assembly Examples)[assembly-examples.md)
+(Projects)[projects.md]
