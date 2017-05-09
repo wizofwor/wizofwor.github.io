@@ -1,5 +1,7 @@
 Welcome to my GitHub Pages
 
+ [Assembly Tutorials](asm-tutorials.md)
+
 ## Assembly
 * Setting up the toolchain
 * Introduction to Assembly
