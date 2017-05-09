@@ -1,5 +1,6 @@
 ## Assembly Tutorials
 
+C64 Essantials
 1. Custom Charset
 2. Smooth Scroll
 3. Colorwash
@@ -8,6 +9,8 @@
 6. Multicolor Bitmap
 7. Raster bars
 8. Sprite Multiplexing
+
+Essentials Tricks
 9. FLI
 10. Sinus dots
 11. Lines
