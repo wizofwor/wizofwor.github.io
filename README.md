@@ -8,11 +8,3 @@ Welcome to my GitHub Pages
 [C64 Reference for Assembly Programmers](asm-reference/README.md)  
  
 [C64 Basic Examples](https://github.com/wizofwor/C64-Basic-examples/tree/master/maze-gen/https://github.com/readme.md)  
-
-# Include
-
-{{% include https://github.com/wizofwor/C64-Basic-examples/blob/master/maze-gen/readme.md | markdownify %}}
-
-# Relative
-
-{{% include_relative https://github.com/wizofwor/C64-Basic-examples/blob/master/maze-gen/readme.md | markdownify %}}
