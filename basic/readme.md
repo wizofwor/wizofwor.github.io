@@ -6,4 +6,5 @@ Thanks to the petcat utility supplied with VICE emulator package, youe can easil
    Introduction to petcat
    
 2. [Maze-gen](https://github.com/wizofwor/C64-Basic-examples/tree/master/maze-gen)   
-   A maze generator program based on famous `10 PRINT CHR$(205.5+RND(1)); : GOTO 10` trick. 
+   A maze generator program based on famous   
+   `10 PRINT CHR$(205.5+RND(1)); : GOTO 10` trick. 
