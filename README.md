@@ -5,8 +5,10 @@ Welcome to my GitHub Pages
 ## Projects 
 
 ## Programming Resources
-[Assembly Tutorials](asm-tutorials.md)  
-[Assembly Examples](asm-examples.md) simple asm programs with well commented sourcecode  
-[C64 Reference for Assembly Programmers](asm-reference/README.md)  
+
+[Assembly](asm-tutorials.md) | [C= Basic 2.0](basic/) | [Projects][3]
+
+[3]:(Projects/)
+
  
-[C64 Basic Examples](https://github.com/wizofwor/C64-Basic-examples/tree/master/maze-gen/https://github.com/readme.md)  
+
