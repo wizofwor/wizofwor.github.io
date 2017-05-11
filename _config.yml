@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
-gems:
-  - jekyll-sitemap
+markdown: kramdown
   
 include: ["_pages"]
 permalink: /:title/
