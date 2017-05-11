@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-header {float: right;}
-section {float: left;}
-footer {float: right;}
+header {float: right; position: static;}
+section {float: left; position: fixed;}
+footer {float: right; position: static;}
 
 code{padding:2px 3px 3px;font-size:14px;background: rgba(27,31,35,0.05);border:1px solid #eaecef;border-radius:3px}
