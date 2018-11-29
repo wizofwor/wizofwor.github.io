@@ -1,4 +1,4 @@
-## My Stuff
+My Stuff
 
 ![](crystal.png)
 
