@@ -1,5 +1,6 @@
-## C64 Programming Resources
+Commodore 64 Programming Resources
 
+![](../floppy.png)
 
 [Notes on Commodore 64 Assembly](https://github.com/wizofwor/C64-Notes)
 
