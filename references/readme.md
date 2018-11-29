@@ -1,7 +1,8 @@
 ## C64 References
 
-[Notes on C64 Aseembly](https://github.com/wizofwor/C64-Notes)
 
-[Assembly Examples](https://github.com/wizofwor/C64-assembly-examples)
+[Notes on Commodore 64 Assembly](https://github.com/wizofwor/C64-Notes)
 
-[Basic Examples](https://github.com/wizofwor/C64-Basic-examples)
+[C64 Assembly Examples](https://github.com/wizofwor/C64-assembly-examples)
+
+[Commodore Basic V2 Examples](https://github.com/wizofwor/C64-Basic-examples)
