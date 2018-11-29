@@ -1,4 +1,4 @@
-## C64 References
+## C64 Programming Resources
 
 
 [Notes on Commodore 64 Assembly](https://github.com/wizofwor/C64-Notes)
